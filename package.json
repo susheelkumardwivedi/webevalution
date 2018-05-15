@@ -1,0 +1,20 @@
+{
+  "name": "LearningManagementSolution_SingulurGowtam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "susheel kumar dwivedi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "sequelize": "^4.37.7",
+    "sqlite3": "^4.0.0"
+  },
+  "scripts":{
+    "start":"node server.js"
+  }
+}
